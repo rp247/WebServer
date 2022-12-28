@@ -1,0 +1,11 @@
+.o
+.pyc
+.bak
+.d
+.out
+.log
+.bbl
+.blg
+.aux
+asgn*/*.out
+.json
